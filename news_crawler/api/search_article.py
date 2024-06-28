@@ -1,8 +1,9 @@
+import os
+
 from flask import Flask, request, jsonify
 from google.cloud import bigquery
 from google.oauth2 import service_account
 from dotenv import load_dotenv
-import os
 
 app = Flask(__name__)
 
