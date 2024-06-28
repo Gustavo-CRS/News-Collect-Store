@@ -1,0 +1,6 @@
+
+.env
+/news_crawler/news_crawler/__pycache__
+/news_crawler/news_crawler/spiders/__pycache__
+news_crawler/articles.json
+fourth-buffer-427718-j9-102e2d52215c.json
